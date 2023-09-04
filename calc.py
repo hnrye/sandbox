@@ -4,8 +4,9 @@ num1 = input()
 
 if num1 == "help":
     print("commands:\n+\n/\n-\n*\n//\n%")
+    num1 = float(input())
 
-num1 = float(input())
+num1 = float(num1)
 op = str(input())
 num2 = float(input())
 
