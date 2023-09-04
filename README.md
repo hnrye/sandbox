@@ -1,2 +1,2 @@
 # sandbox
- just some test miniprojects
+ test
